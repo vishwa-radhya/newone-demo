@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1
+https://www.geeksforgeeks.org/problems/minimum-cost-to-make-two-strings-identical1107/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/find-distinct-elements2054/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+https://www.geeksforgeeks.org/problems/pattern-searching4145/1
+https://www.geeksforgeeks.org/problems/preorder-traversal/1
